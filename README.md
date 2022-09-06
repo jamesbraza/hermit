@@ -1,5 +1,16 @@
 # Hugo theme Hermit
 
+## Changes
+
+Here are the tweaks this fork of [Track3/hermit](https://github.com/Track3/hermit):
+
+- Commented out social icons in `index.html`
+- Removed "Made with Hugo · Theme Hermit" from `footer.html` and RSS feed link
+- Updated `baseof.html` per https://github.com/Track3/hermit/pull/151
+  - As of 9/5/2022, this PR was not merged
+
+______________________________________________________________________
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/01a2e2de-d57d-4d89-8322-95685000e60f/deploy-status)](https://app.netlify.com/sites/hugo-theme-hermit/deploys)
 
 Hermit is a minimal and fast theme for Hugo. It's built for bloggers who want a simple and focused website.
