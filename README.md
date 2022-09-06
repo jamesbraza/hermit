@@ -2,7 +2,7 @@
 
 ## Changes
 
-Here are the tweaks this fork makes in the theme:
+Here are the tweaks this fork of [Track3/hermit](https://github.com/Track3/hermit) makes in the theme:
 
 - Commented out social icons in `index.html`
 - Removed "Made with Hugo · Theme Hermit" from `footer.html` and RSS feed link
