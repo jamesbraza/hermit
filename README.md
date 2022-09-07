@@ -5,7 +5,7 @@
 Here are the tweaks this fork of [Track3/hermit](https://github.com/Track3/hermit):
 
 - Commented out social icons in `index.html`
-- Removed "Made with Hugo · Theme Hermit" from `footer.html` and RSS feed link
+- Removed "Made with Hugo · Theme Hermit" from `footer.html`
 - Updated `baseof.html` per https://github.com/Track3/hermit/pull/151
   - As of 9/5/2022, this PR was not merged
 - Updated `favicons.html` for modern https://realfavicongenerator.net/ output
